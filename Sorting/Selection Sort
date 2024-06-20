@@ -1,0 +1,7 @@
+Selection Sort
+Pick the smallest and put it at the beginning
+
+5,4,1,3,2,  - unsorted array
+The smallest one is pushed to the front
+In every single iteration, we're getting the unsorted part and get the smallest elements to the front.
+
